@@ -12,11 +12,11 @@
 * Memes.
 
 ## Screenshots
-**New game screen**
+**New game screen**  
 <img src="screenshots/classes.png" width="700">
-**Dungeon variations**
+**Dungeon variations**  
 <img src="screenshots/variations.png" width="700">
-**Boss**
+**Boss**  
 <img src="screenshots/boss.png" width="700">
 
 ## How to run using Gradle
