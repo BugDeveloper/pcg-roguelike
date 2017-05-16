@@ -1,8 +1,8 @@
 # pcg-roguelike
 
 ## Authors
-[https://github.com/BugDeveloper/](BugDeveloper)
-[https://github.com/epunwds](Cr0s)
+[BugDeveloper](https://github.com/BugDeveloper/)  
+[Cr0s](https://github.com/epunwds)
 
 ## Features
 * Two characters to choose from.
@@ -12,9 +12,9 @@
 * Memes.
 
 ## Screenshots
-![Classes](screenshots/classes.png)
-![Variations](screenshots/variations.png)
-![Boss](screenshots/boss.png)
+![Classes](screenshots/classes.png =250x)
+![Variations](screenshots/variations.png =250x)
+![Boss](screenshots/boss.png =250x)
 
 ## How to run using Gradle
 In repo's game folder execute:
@@ -25,4 +25,4 @@ In repo's game folder execute:
 ### Known bugs
 * Mobes sometimes may see you through the walls.
 * Mobes can be stucked in the walls.
-* There are strange "shadow wall" in the middle of the map.
+* There is "shadow wall" in the middle of the map.
