@@ -303,7 +303,8 @@ public class GameWorld {
         player.add(new DirectionComponent(Direction.DOWN));
         if (playerClass == 0) {
             player.add(new WeaponComponent(new EnergyStaff()));
-            player.add(new HealthComponent(getPlayerHpTotal()));
+           // player.add(new HealthComponent(getPlayerHpTotal()));
+            player.add(new HealthComponent(10000));
         } else {
             player.add(new WeaponComponent(new StoneSword()));
             player.add(new HealthComponent(getPlayerHpTotal()));
