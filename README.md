@@ -12,9 +12,9 @@
 * Memes.
 
 ## Screenshots
-<img src="screenshots/classes.png" width="400">
-<img src="screenshots/variations.png" width="400">
-<img src="screenshots/boss.png" width="400">
+<img src="screenshots/classes.png" width="700">
+<img src="screenshots/variations.png" width="700">
+<img src="screenshots/boss.png" width="700">
 
 ## How to run using Gradle
 In repo's game folder execute:
