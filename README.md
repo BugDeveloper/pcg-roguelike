@@ -13,9 +13,9 @@
 
 ## Screenshots
 **New game screen**  
-<img src="screenshots/classes.png" width="700">
+<img src="screenshots/classes.png" width="700">  
 **Dungeon variations**  
-<img src="screenshots/variations.png" width="700">
+<img src="screenshots/variations.png" width="700">  
 **Boss**  
 <img src="screenshots/boss.png" width="700">
 
