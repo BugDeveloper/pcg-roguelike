@@ -26,6 +26,6 @@ In repo's game folder execute:
 ```
 
 ### Known bugs
-* Mobes sometimes may see you through the walls.
-* Mobes can be stucked in the walls.
+* Mobs sometimes may see you through the walls.
+* Mobs can be stucked in the walls.
 * There is "shadow wall" in the middle of the map.
